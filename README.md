@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veera Karthick</h1>
-<h3 align="center">I'm a Computer Science Engineering student with a passion for AI, ML, and Robotics. Currently honing my skills as a Flutter Developer.</h3>
+<h3 align="center">I'm a Computer Science Engineering student with a passion for AI, ML, and Robotics. Currently honing my skills as a Machine Learning Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerakarthick609&label=Profile%20views&color=0e75b6&style=flat" alt="veerakarthick609" /> </p>
 
